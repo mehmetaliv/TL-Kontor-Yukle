@@ -1,0 +1,665 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
+<META http-equiv="content-type" content="text/html; charset=windows-1254" />
+<META http-equiv="content-type" content="text/html; charset=x-mac-turkish" />
+<META HTTP-EQUIV="Content-Language" CONTENT="tr" />
+<META NAME="Author" CONTENT="Anindayukle.com" />
+<META NAME="revisit-after" CONTENT="1 Days" />
+<META NAME="googlebot" CONTENT="index, follow" />
+<META NAME="robots" CONTENT="all" />
+<link rel="icon" href="Images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="Images/favicon.ico" type="image/x-icon" />
+
+<style type="text/css">
+<!--
+body {
+  background-color: #000000;
+	background-image: url('Images/Bg.png');
+	font-family: Tahoma;
+	font-size:12px;
+	color: #ffffff;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.enbuyuk {
+	border-color: #F0F0F0;
+	border-collapse:collapse;
+	font-family: Tahoma;
+	font-size:12px;
+	color: #ffffff;
+	background-color: #333333;
+}
+td {
+	font-family: Tahoma;
+	font-size:12px;
+	color: #000000;
+}
+.menu A:link{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.menu A:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+.menu A:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.menu A:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A:Link { 
+	color: #000000;
+	text-decoration: none;
+}
+A:Visited {
+	text-decoration: none;
+	color: #000000;
+}
+A:Hover {
+	text-decoration: underline;
+	color: #c62222;
+}
+A:Active {
+	text-decoration:none;
+	color: #000000;
+}
+.textkutu {
+	font-size: 13px;
+	color: #FFFFFF;
+	border: 1px solid #000000;
+	background-color: #252525;
+}
+.postakutu {
+	font-size: 13px;
+	color: #000000;
+	border: 1px solid #dadada;
+	background-color: #EFEFEF;
+}
+.postakutu2 {
+	font-size: 13px;
+	color: #000000;
+	width: 200px;
+	border: 1px solid #dadada;
+	background-color: #EFEFEF;
+}
+.tablo {
+	border-color: #DADADA;
+	border-collapse:collapse;
+	border-style:solid;
+	font-family: Tahoma;
+	font-size:12px;
+	color: #000000;
+	background-color: #ffffff;
+}
+.post {
+	background-color: #ECECEC;
+	font-size: 14px;
+	font-family: Tahoma;
+	color:#000000;
+	font-weight: bold;
+}
+.blok {
+	color: #000000;
+}
+.blokbaslik {
+	background-image: url('Images/BlokBaslik.png');
+	background-repead: repeat-x;
+	height: 26px;
+	font-weight: bold;
+	font-size: 11px;
+	color: #ffffff;
+}
+.blokbaslik A:link{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.blokbaslik A:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+.blokbaslik A:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.blokbaslik A:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.ortatablo {
+	border-collapse:collapse;
+	font-family: Tahoma;
+	font-size:12px;
+	color: #000000;
+	background-color: #EEEEEE;
+}
+.cizgisiz {
+	border-collapse:collapse;
+	font-family: Tahoma;
+	font-size:12px;
+	color: #ffffff;
+	background-color: #252525;
+}
+.baslikust {
+	background-repeat: repeat-x;
+	height: 30px;
+	color: #3d3d3d;
+}
+.baslikust A:link{
+	color: #3d3d3d;
+	text-decoration: none;
+}
+.baslikust A:hover {
+	text-decoration: underline;
+	color: #3d3d3d;
+}
+.baslikust A:visited {
+	color: #3d3d3d;
+	text-decoration: none;
+}
+.baslikust A:active {
+	color: #3d3d3d;
+	text-decoration: none;
+}
+.baslikalt {
+	background-image: url('Images/BaslikAlt.gif');
+	background-repeat: repeat-x;
+	height: 30px;
+	color: #000000;
+}
+.menu {
+	background-image: url('Images/Menu.png');
+	background-repeat: repeat-x;
+	height: 30px;
+	color: #FFFFFF;
+}
+.yazibitis {
+	background-image: url('Images/Cizgi.png');
+	background-repeat: repeat-x;
+	height: 10px;
+}
+.anasayfayazi a:Link{
+	color: #c62222;
+	text-decoration: none;
+}
+.anasayfayazi a:Hover{
+	color: #c62222;
+	text-decoration: underline;
+}
+.anasayfayazi a:Active{
+	color: #c62222;
+	text-decoration: none;
+}
+.anasayfayazi a:Visited{
+	color: #c62222;
+	text-decoration: none;
+}
+.adminyorum {
+	border-color: #c62222;
+	border-collapse:collapse;
+	border-style:solid;
+	font-family: Tahoma;
+	font-size:12px;
+	color: #000000;
+	background-color: #ffffff;
+}
+-->
+</style>
+
+<title>Kredi Kartı ile Kontör (TL) Yükleme, Kontör Yükle, Turkcell, Avea, Vodafone | 7 Gün 24 Saat boyunca, internetten kontör ( TL ) yüklemenize olanak sağlayan online bayi.</title>
+<script type="text/javascript">
+function degistir(resim){
+document.getElementById('mansetresim').src=resim;
+}
+</script>
+</head>
+
+<body>
+
+<br />
+<table border="0" align="center" width="960" cellpadding="0" cellspacing="0" class="enbuyuk">
+	<tr>
+		<td valign="top"><br />
+		<table border="0" class="cizgisiz" width="97%" align="center" cellpadding="0" cellspacing="0">
+			<tr>
+				<td class="baslikust" bgcolor="#F1F1F1">&nbsp;&nbsp;<b>Kredi Kartı ile Kontör (TL) Yükleme, Kontör Yükle, Turkcell, Avea, Vodafone - 7 Gün 24 Saat boyunca, internetten kontör ( TL ) yüklemenize olanak sağlayan online bayi.</b></td>
+				
+				
+				<form action="Default.asp?do=arama" method="post">
+						<td class="baslikust" width="177" align="right" bgcolor="#F1F1F1">
+						<input type="text" size="24" name="ara" value=" Arama " onfocus="if(this.value == ' Arama ') this.value='';" onblur="if(this.value == '') this.value=' Arama ' ;"></td>
+						<td class="baslikust" width="51" bgcolor="#F1F1F1">&nbsp;<input type="submit" value="Ara" /></td>
+						</form>
+						
+						
+			</tr>
+		</table>
+		<table border="0" class="cizgisiz" width="97%" align="center" cellpadding="0" cellspacing="0" height="100">
+			<tr>
+				<td>
+				<table border="0" width="100%" id="table16" style="border-collapse: collapse">
+					<tr>
+						<td width="400" background="Images/odemesitebf.jpg">
+						<a href="Default.Asp">
+						<img src="Images/odemesitelogo.jpg" alt="Kontör Yükle" width="285" height="116" border="0"></a></td>
+
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<table border="0" class="cizgisiz" width="97%" align="center" cellpadding="0" cellspacing="0">
+			<tr>
+				<td class="menu">
+				<table border="0" width="100%" style="border-collapse: collapse" height="30">
+					<tr>
+						<td width="15" class="menu">&nbsp;</td>
+						<td class="menu" width="78" align="center" onmousemove="this.style.background='#252525'" onmouseout="this.style.background=''">
+						<b><a href="Default.asp" title="Ana Sayfa">Ana Sayfa</a></b></td>
+						
+						<td class="menu" width="50" align="center" onmousemove="this.style.background='#252525'" onmouseout="this.style.background=''">
+						<a href="Arsiv.asp"><b>Arşiv</b></a></td>
+						<td class="menu" align="center" width="70" onmousemove="this.style.background='#252525'" onmouseout="this.style.background=''">
+						<b><a href="Iletisim.asp">İletişim</a></b></td>
+						<td class="menu">&nbsp;</td>
+						
+				<td class="menu" width="18" bgcolor="#F1F1F1">
+				<font color="#FFFFFF"><img border="0" src="Images/KayitOl.png" width="16" height="16" /></font></td>
+				<td class="menu" width="61" bgcolor="#F1F1F1">
+				<font color="#FFFFFF">&nbsp;</font><b><a href="Default.asp?do=kayitol" title="Kayıt olmak için tıklayın."><font color="#FFFFFF">Üye 
+				Ol</font></a></b></td>
+				<td class="menu" width="18" bgcolor="#F1F1F1">
+				<font color="#FFFFFF"><img border="0" src="Images/SUnuttum.png" width="16" height="16" /></font></td>
+				<td class="menu" width="129" bgcolor="#F1F1F1">
+				<font color="#FFFFFF">&nbsp;</font><b><a href="Default.asp?do=sunuttum"><font color="#FFFFFF">Şifremi 
+				Unuttum</font></a></b></td>
+				
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+<table border="0" align="center" width="960" class="enbuyuk" id="table1" cellpadding="0" cellspacing="0">
+	<tr>
+		<td valign="top">
+		<div align="center">
+			<table border="0" class="ortatablo" cellpadding="0" height="500" cellspacing="0" width="97%" id="table4">
+				<tr>
+					<td valign="top" width="10"></td>
+					<td valign="top"><br />
+					<table border="0" width="100%" style="border-collapse: collapse">
+						<tr>
+							<td colspan="3">
+
+<!-- -->					
+
+
+<table border="1" class="tablo" width="100%" id="table5">
+<tr>
+<td>
+<img src="Images/headknt.gif">
+<iframe src="http://anindayukle.com/odeme3d/" height="353" width="100%" name="frame" scrolling="no" align="middle" border="0" frameborder="0"></iframe>
+</td></tr>
+</table>
+</br>
+		<table border="1" class="tablo" width="100%" id="table5">
+								<tr>
+									<td align="center">
+									<table border="0" width="97%" id="table9" style="border-collapse: collapse">
+										<tr>
+											<td colspan="2" height="10"></td>
+										</tr>
+										<tr>
+											<td colspan="2" align="center" class="blokbaslik">
+											Önerilen Başlıklar</td>
+										</tr>
+										<tr>
+											<td colspan="2" height="10"></td>
+										</tr>
+										<tr>
+											<td valign="middle">
+<table border="0" width="100%"><tr><td align="center">Hiç sabit yazı eklenmemiş!</td></tr></table>
+											<br />
+											</td>
+											<td width="187" align="center" valign="top">
+									&nbsp;</td>
+										</tr>
+<!-- -->									</table>
+									</td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="3">&nbsp;</td>
+						</tr>
+						<tr>
+							<td width="49%" valign="top">
+<table border="1" class="tablo" width="100%" id="table5" height="136">
+	<tr>
+		<td valign="top">
+		<table border="0" width="95%" align="center">
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; Kategorisiz</td>
+			</tr>
+			<tr>
+				<td>
+<table border="0" width="100%"><tr><td align="center"><br />Bu kategoride hiç yazı yok!</td></tr></table>
+		</table>
+		</td>
+	</tr>
+</table>
+							</td>
+							<td width="2%">&nbsp;</td>
+							<td width="49%" valign="top">
+<table border="1" class="tablo" width="100%" id="table5" height="136">
+	<tr>
+		<td valign="top">
+		<table border="0" width="95%" align="center">
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; Kategorisiz</td>
+			</tr>
+			<tr>
+				<td>
+<table border="0" width="100%"><tr><td align="center"><br />Bu kategoride hiç yazı yok!</td></tr></table>
+		</table>
+		</td>
+	</tr>
+</table>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="3">&nbsp;</td>
+						</tr>
+						<tr>
+							<td colspan="3">
+<table border="1" class="tablo" width="100%" id="table5" height="79">
+	<tr>
+		<td valign="top" height="73">
+		<div align="center">
+		<table border="0" width="97%">
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; 
+				TOP	3 Başlıklar</td>
+			</tr>
+			<tr>
+				<td height="2"></td>
+			</tr>
+			<tr>
+				<td>
+				<table border="0" width="100%" id="table6" style="border-collapse: collapse">
+<tr><td align="center">Hiç yazı eklenmemiş!</td></tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+		</table>
+		</div>
+		</td>
+	</tr>
+</table>
+							</td>
+						</tr>
+					</table><br />
+					</td>
+					<td width="15">&nbsp;</td>
+					<td width="321" valign="top"><br />
+
+<table border="0" width="100%" style="border-collapse: collapse">
+	<tr>
+		<td colspan="3">
+<table border="1" class="tablo" width="100%" id="table5" height="79">
+	<tr>
+		<td valign="top" height="73">
+		<table border="0" width="95%" align="center">
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; 
+				Duyuru</td>
+			</tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td colspan="2">Artık yüklemeler çok daha hızlı. Bütün müşterilerimize teşekkür ederiz.</td>
+			</tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<br />
+
+<table border="1" class="tablo" width="100%" id="table5" height="79">
+	<tr>
+		<td valign="top" height="73">
+		<table border="0" width="95%" align="center">
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; Site 
+				İstatistikleriniz</td>
+			</tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+<table border="0" width="100%">
+	<tr>
+		<td width="100">&nbsp;<a href="Yonetim/Yazilar.asp" target="_blank">Onaysız Yorum</a></td>
+		<td width="3">:</td>
+		<td>&nbsp;0</td>
+	</tr>
+	<tr>
+		<td width="100">&nbsp;<a href="Yonetim/Yazilar.asp" target="_blank">Onaysız Yazı</a></td>
+		<td width="3">:</td>
+		<td>&nbsp;0</td>
+	</tr>
+	<tr>
+		<td width="100">&nbsp;<a href="Yonetim/Iletisim.asp" target="_blank">Gelen Mesaj</a></td>
+		<td width="3">:</td>
+		<td>&nbsp;0</td>
+	</tr>
+</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<br />
+
+<table border="1" class="tablo" width="100%" id="table5" height="134">
+	<tr>
+		<td valign="top" height="128">
+		<table border="0" width="95%" align="center">
+			<tr>
+				<td height="5" colspan="2"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik" colspan="2">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; 
+				Üyelik</td>
+			</tr>
+			<tr>
+				<td height="5" colspan="2"></td>
+			</tr>
+<form action="Default.asp?do=giris" method="post">
+
+			<tr>
+				<td>&nbsp;&nbsp;&#9679; <a href="Yonetim/Default.asp" target="_blank" title="Yönetim panelinize ulaşmak için tıklayın.">Yönetim Paneli</a></td>
+			</tr>
+
+			<tr>
+				<td>&nbsp; &#9679; <a href="Default.asp?do=yazilarim" title="Yazdığınız yazıları görmek için tıklayın.">Yazılarım</a></td>
+			</tr>
+			<tr>
+				<td>&nbsp; &#9679; <a href="Default.asp?do=yaziekle" title="Yazı eklemek için tıklayın.">Yazı Ekle</a></td>
+			</tr>
+			<tr>
+				<td>&nbsp; &#9679; <a href="Default.asp?do=bilgilerim" title="Bilgilerinizi düzenlemek için tıklayın.">Bilgilerimi Düzenle</a></td>
+			</tr>
+			<tr>
+				<td>&nbsp; &#9679; <a href="Default.asp?do=cikis" title="Çıkış yapmak için tıklayın.">Çıkış</a></td>
+			</tr>
+
+</form>
+			<tr>
+				<td height="5" colspan="2"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<br />
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" width="49%">
+<table border="1" class="tablo" width="100%" id="table5" height="79">
+	<tr>
+		<td valign="top" height="73">
+		<table border="0" width="95%" align="center">
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; Kategoriler</td>
+			</tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+
+			<tr>
+				<td>&nbsp; &#9679; <a href="Kategoriler.asp?KatID=1">Kategorisiz</a></td>
+			</tr>
+
+			<tr>
+				<td height="5"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+		</td>
+		<td width="2%">&nbsp;</td>
+		<td width="49%" valign="top">
+<table border="1" class="tablo" width="100%" id="table5" height="79">
+	<tr>
+		<td valign="top" height="73">
+		<table border="0" width="95%" align="center">
+			<tr>
+				<td height="5"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; Bağlantılar</td>
+			</tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+<tr><td align="center">Bağlantı<br />Yok!</td></tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+
+<table border="1" class="tablo" width="100%" id="table5" height="79">
+	<tr>
+		<td valign="top" height="73">
+		<table border="0" width="95%" align="center">
+			<tr>
+				<td height="5" colspan="2"></td>
+			</tr>
+			<tr>
+				<td class="blokbaslik">&nbsp;&nbsp;&nbsp; &#9679;&nbsp; Öne Çıkan 
+				Başlıklar</td>
+			</tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+<tr><td align="center">Hiç yazı eklenmemiş!</td></tr>
+			<tr>
+				<td height="5"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<br />
+<table border="1" class="tablo" width="100%" id="table5" height="108">
+	<tr>
+		<td valign="top" height="102">
+		&nbsp;</td>
+	</tr>
+</table>
+<br />
+		</td>
+	</tr>
+</table>
+<br />
+					</td>
+					<td width="10" valign="top">
+					&nbsp;</td>
+				</tr>
+			</table>
+		</div>
+		</td>
+	</tr>
+</table>
+
+<table border="0" align="center" width="960" class="enbuyuk" id="menu" height="45" cellpadding="0" cellspacing="0">
+	<tr>
+		<td valign="top">
+		<table border="0" class="cizgisiz" width="97%" align="center" cellpadding="0" cellspacing="0">
+			<tr>
+				<td class="baslikust" align="center" width="6%">
+				&nbsp;</td>
+				<td class="baslikust" align="center">Bir Anındayükle.com iştirakıdır.</td>
+				<td class="baslikust" align="center" width="6%">&nbsp;</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table><br />
+
+</body>
+</html>
